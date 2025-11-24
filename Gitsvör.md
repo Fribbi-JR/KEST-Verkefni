@@ -1,8 +1,3 @@
-# Linux skipanir
-cd - fer í aðra möppu (change directory)
-ls - 
-# Gitsvör
-
 ## 1. Hvað gera eftirfarandi Linux skipanir?
 **cd** – fer í aðra möppu (change directory).  
 **ls** – sýnir skrár og möppur þar sem þú ert staddur.  
