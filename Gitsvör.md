@@ -5,14 +5,14 @@
 **pwd** – sýnir slóðina að möppunni sem þú ert í (print working directory).  
 **mkdir** – býr til nýja möppu.
 
-# 2.
+## 2.
 **git clone** – afritar Git geymslu á nýtt vinnusvæði, allar skráningar fylgja með.
 
 **git status** – Sýnir stöðu HEAD, td. hvaða skrár eru óskráðar (untracked), hvaða skrám hefur verið breytt eða eytt. Eftir að hafa sviðsett (add to stage) skrárnar þarf að skrá þær (commit) í vinnuskrána (Working Directory).
 
 **git diff** – Sýnir breytingar sem þú ert að vinna í frá síðustu skráningu (commit).
 
-## 3. 
+### 3. 
 **git log** – Sýnir lista yfir allar skráningar (commit) sem gerðar hafa verið í greininni sem HEAD bendir á.
 
 **git checkout** – Fylgist með stöðunni og skráir í vinnuskrána.  
