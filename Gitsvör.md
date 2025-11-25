@@ -1,11 +1,11 @@
-# 1.
+### 1.
 
 **cd** – fer í aðra möppu (change directory).  
 **ls** – sýnir skrár og möppur þar sem þú ert staddur.  
 **pwd** – sýnir slóðina að möppunni sem þú ert í (print working directory).  
 **mkdir** – býr til nýja möppu.
 
-## 2.
+### 2.
 **git clone** – afritar Git geymslu á nýtt vinnusvæði, allar skráningar fylgja með.
 
 **git status** – Sýnir stöðu HEAD, td. hvaða skrár eru óskráðar (untracked), hvaða skrám hefur verið breytt eða eytt. Eftir að hafa sviðsett (add to stage) skrárnar þarf að skrá þær (commit) í vinnuskrána (Working Directory).
@@ -21,20 +21,20 @@
 
 **Gagn:** Þær leyfa að skoða útgáfusögu, hoppa í eldri útgáfur, vinna á greinum og skipuleggja verkefnið án þess að skemma main.
 
-## 4. 
+### 4. 
 Kerfi sem geymir breytingar á skrám yfir tíma, gerir mörgum kleift að vinna saman og leyfir að fara til baka ef mistök gerast.
 
-## 5. 
+### 5. 
 - Heldur utan um alla sögu breytinga.  
 - Auðvelt að vinna margir saman.  
 - Auðvelt að búa til greinar og prófa hluti.  
 - Hægt að fara til baka í eldri útgáfur.  
 - Öruggt þegar ýtt er á GitHub.
 
-## 6. 
+### 6. 
 Mjög oft — í hvert skipti sem þú gerir breytingu.  
 
-## 7. 
+### 7. 
 **Working Directory:** Þar sem þú ert að vinna í skránum á tölvunni.  
 **Staging Area:** Staðurinn sem skrár fara í þegar þú notar *git add* áður en þær eru commit-aðar.
 
