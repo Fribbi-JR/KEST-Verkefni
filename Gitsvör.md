@@ -13,7 +13,9 @@
 
 ## 3. Hvað gera eftirfarandi skipanir saman og af hverju eru þær gagnlegar?
 **git log** – Sýnir lista yfir allar skráningar (commit) sem gerðar hafa verið í greininni sem HEAD bendir á.
+
 **git checkout** – Fylgist með stöðunni og skráir í vinnuskrána.  
+
 **git branch** – Sýnir lista yfir allar staðtengdar (local) greinar.
 
 **Gagn:** Þær leyfa að skoða útgáfusögu, hoppa í eldri útgáfur, vinna á greinum og skipuleggja verkefnið án þess að skemma main.
