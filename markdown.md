@@ -12,8 +12,8 @@
 
 # Lamine Yamal
 
-![Lamine](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Lamine Yamal.jpg)
+![Lamine](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Lamine%20Yamal.jpg)
 
 # Hugo Ekitike
 
-![Hugo](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Hugo Ekitike.jpg)
+![Hugo](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Hugo%20Ekitike.jpg)
